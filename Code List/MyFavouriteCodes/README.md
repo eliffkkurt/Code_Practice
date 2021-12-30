@@ -1,8 +1,12 @@
 # My Favourite Codes
-### 1. Creating a List of Lists From List of Dictionaries After Grouping According to a Specific Key
+### 1. List of Dictionaries'i Belirli Bir Keye Göre Gruplandırıp List of Lists Oluşturma
     
-We have a list of dictionaries. We want to group that according to a specific key and return it as a list of lists.
+Dictionarylerden oluşan bir listemiz var. Bunu belirli bir key'e göre gruplandırmak ve listelerden oluşan liste olarak döndürmek istiyoruz. Yani aynı value'ya sahip olanlar aynı listede olmalı.
 
-### 2. Rearrange the table where the first row is seen as the column name
+### 2. İlk Satırın Sütun Adı Kısmına Kaydığı Durumlarda Tabloyu Düzenlemek
 
-We have a table that first row is shifted to column name. We want to add the correct column names and replace first row to right place.
+İlk satırın sütun adına kaydığı bir tablomuz var. Doğru sütun adlarını eklemek ve ilk satırı doğru yere değiştirmek istiyoruz.
+
+### 3. Değişkeni İndekse İndeksi Değişkene Çevirmek
+
+Datasetimiz içerisindeki indeksi columna, columnu indekse çevirmek istiyoruz.
