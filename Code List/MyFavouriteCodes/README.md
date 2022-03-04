@@ -10,3 +10,8 @@ Dictionarylerden oluşan bir listemiz var. Bunu belirli bir key'e göre grupland
 ### 3. Değişkeni İndekse İndeksi Değişkene Çevirmek
 
 Datasetimiz içerisindeki indeksi columna, columnu indekse çevirmek istiyoruz.
+
+### 4. Sütun İçerisindeki Değerleri Ayırıp Satırlara Yazmak
+
+Sütun içerisinde yanyana virgülle veya - ile yanyana gelmiş string değerleri ayırıp aynı satır tekrar edecek şekilde satırlara yazmak istiyoruz. 
+
